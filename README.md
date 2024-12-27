@@ -11,7 +11,7 @@
 - 🌱 I’m currently in Third Year pursuing a **B.E. in Computer Engineering** with a honors in **Data Science** at Bharati Vidyapeeth College of Engineering.
 - 🛠️ I have professional experience in **data preprocessing**, **machine learning**, and **team-driven research**.
 - 🎯 My goal is to create impactful AI solutions and contribute meaningfully to society.
-- 🌐 Visit my portfolio: [Aditya's Projects](https://ak-portfolio-42i7d2h5j-aditya-k7ls-projects.vercel.app/).
+- 🌐 Visit my portfolio: [Aditya's Portfolio](https://ak-portfolio-42i7d2h5j-aditya-k7ls-projects.vercel.app/).
 
 ---
 
