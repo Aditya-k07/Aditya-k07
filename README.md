@@ -8,12 +8,10 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 I’m currently mastering **Deep Learning, Computer Vision, and NLP**.
-- 🧠 Exploring cutting-edge applications of AI in **Computational Psychology** and **Urban Optimization**.
-- 🛠️ Working on innovative projects such as **Movie Recommendation Systems**, **Sorting Visualizers**, and **Antivirus Pipelines**.
-- 💬 Ask me about **ML workflows, Python, or C++**.
-- ✍️ Occasionally writing technical blogs to share knowledge. 
-- 🎯 My goal: Build AI solutions that make the world better.
+- 🌱 I’m currently in Third Year pursuing a **B.E. in Computer Engineering** with a honors in **Data Science** at Bharati Vidyapeeth College of Engineering.
+- 🛠️ I have professional experience in **data preprocessing**, **machine learning**, and **team-driven research**.
+- 🎯 My goal is to create impactful AI solutions and contribute meaningfully to society.
+- 🌐 Visit my portfolio: [Aditya's Projects](https://ak-portfolio-42i7d2h5j-aditya-k7ls-projects.vercel.app/).
 
 ---
 
@@ -26,40 +24,32 @@
 #### 📊 ML/AI Frameworks:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-F36D00?style=for-the-badge&logo=yolo&logoColor=white)
 
 #### 🛠️ Tools:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🌍 Data Visualization:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4C88?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-
-#### 🗄️ Databases:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### 📁 Other Technologies:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-### 🌟 Projects:
-Here are a few highlights from my work:
-- **[Sorting Visualizer](#)**: A dynamic visualizer for sorting algorithms, built with C++.
-- **[Movie Recommendation System](#)**: Personalized recommendations based on user preferences.
-- **[Antivirus Pipeline](#)**: Offline multi-engine antivirus for critical infrastructure.
+### 🌟 Featured Projects:
+#### **[Lookalike Celebrities Differentiator](https://github.com/Aditya-k07/lookalike-celeb-differentiator-YOLO)**
+- Built a YOLO-based model to differentiate between celebrities who look alike.
+- Utilized **PyTorch** and **LabelImg** for labeling and training.
 
----
+#### **[CIFAR-10 Image Classification](https://github.com/Aditya-k07/ImgclassifierCNN)**
+- Developed a CNN-based sequential model achieving ~69% test accuracy without hyperparameter tuning.
 
-### 🌱 Learning Journey:
-- 📖 Currently diving deep into **Reinforcement Learning** and **Generative AI**.
-- 🔍 Exploring **AutoML** and **MLOps** for scaling ML solutions.
+#### **[Employee Attrition Analysis](https://github.com/Aditya-k07/employee_attritionXgB)**
+- Created an XGBoost tree model with 86% test accuracy and applied advanced data visualization techniques.
+
+#### **Cloudburst Prediction Model (Research)**  
+- Collaborated on a research paper to optimize predictive models for early disaster detection.
 
 ---
 
@@ -79,10 +69,15 @@ Here are a few highlights from my work:
 ---
 
 ### 🤝 Let's Connect:
-- 💼 [LinkedIn](https://linkedin.com/in/Aditya-k07)
-- 🌐 [Portfolio](#) (Coming Soon)
-- 📧 **aditya.k07@gmail.com**
+- 💼 [LinkedIn](http://www.linkedin.com/in/aditya-koul-2b17b3263)
+- 🌐 [Portfolio](https://ak-portfolio-42i7d2h5j-aditya-k7ls-projects.vercel.app/)
+- 📧 **adityakoul7@gmail.com**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-k07&theme=radical" alt="GitHub Trophy" />
 </p>
+
+---
+
+### 🐍 Snake Animation:
+![Snake animation](https://github.com/Aditya-k07/Aditya-k07/blob/output/dist/snake.svg)
