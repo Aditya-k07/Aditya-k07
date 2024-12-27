@@ -80,4 +80,4 @@
 ---
 
 ### 🐍 Snake Animation:
-![Snake animation](https://github.com/Aditya-k07/Aditya-k07/blob/output/dist/snake.svg)
+![Snake animation](https://github.com/Aditya-k07/Aditya-k07/blob/output/github-snake-dark.svg)
