@@ -74,7 +74,6 @@
 - **adityakoul7@gmail.com**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-k07&theme=radical" alt="GitHub Trophy" />
 </p>
 
 ---
