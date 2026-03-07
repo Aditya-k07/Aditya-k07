@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi, I'm Aditya</h1>
 <h3 align="center">A Passionate Machine Learning Enthusiast and Developer</h3>
 
 <p align="center">
@@ -7,11 +7,11 @@
 
 ---
 
-### 🚀 About Me:
-- 🌱 I’m currently in Fourth Year pursuing **B.E. in Computer Engineering** with a honors in **Data Science** at Bharati Vidyapeeth College of Engineering.
-- 🛠️ I have professional experience in **data preprocessing**, **machine learning**, and **team-driven research**.
-- 🎯 My goal is to create impactful AI solutions and contribute meaningfully to society.
-- 🌐 Visit my portfolio( Currently in development ): [Aditya's Portfolio]().
+### About Me:
+- I’m currently in Fourth Year pursuing **B.E. in Computer Engineering** with a honors in **Data Science** at Bharati Vidyapeeth College of Engineering.
+- I have professional experience in **data preprocessing**, **machine learning**, and **team-driven research**.
+- My goal is to create impactful AI solutions and contribute meaningfully to society.
+- Visit my portfolio( Currently in development ): [Aditya's Portfolio]().
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 🌟 Featured Projects:
+### Featured Projects:
 #### **[Lookalike Celebrities Differentiator](https://github.com/Aditya-k07/lookalike-celeb-differentiator-YOLO)**
 - Built a YOLO-based model to differentiate between celebrities who look alike.
 - Utilized **PyTorch** and **LabelImg** for labeling and training.
@@ -68,10 +68,10 @@
 
 ---
 
-### 🤝 Let's Connect:
-- 💼 [LinkedIn](http://www.linkedin.com/in/aditya-koul-2b17b3263)
-- 🌐 [Portfolio](https://ak-portfolio-42i7d2h5j-aditya-k7ls-projects.vercel.app/)
-- 📧 **adityakoul7@gmail.com**
+### Let's Connect:
+- [LinkedIn](http://www.linkedin.com/in/aditya-koul-2b17b3263)
+- [Portfolio](https://ak-portfolio-42i7d2h5j-aditya-k7ls-projects.vercel.app/)
+- **adityakoul7@gmail.com**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-k07&theme=radical" alt="GitHub Trophy" />
@@ -79,5 +79,5 @@
 
 ---
 
-### 🐍 Snake Animation:
+### Snake Animation:
 ![Snake animation](https://github.com/Aditya-k07/Aditya-k07/blob/output/github-snake-dark.svg)
