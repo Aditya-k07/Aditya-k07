@@ -15,23 +15,23 @@
 
 ---
 
-### 🛠️ Tech Stack:
-#### 👨‍💻 Programming Languages:
+###  Tech Stack:
+####  Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 📊 ML/AI Frameworks:
+####  ML/AI Frameworks:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-F36D00?style=for-the-badge&logo=yolo&logoColor=white)
 
-#### 🛠️ Tools:
+#### Tools:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🌍 Data Visualization:
+#### Data Visualization:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4C88?style=for-the-badge&logoColor=white)
 
